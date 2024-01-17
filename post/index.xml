@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>https://li2xun2.github.io/post/</link>
+      <atom:link href="https://li2xun2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://li2xun2.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://li2xun2.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>使用clash和机场连接vpn</title>
+      <link>https://li2xun2.github.io/post/%E4%BD%BF%E7%94%A8clash%E5%92%8C%E6%9C%BA%E5%9C%BA%E8%BF%9E%E6%8E%A5vpn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://li2xun2.github.io/post/%E4%BD%BF%E7%94%A8clash%E5%92%8C%E6%9C%BA%E5%9C%BA%E8%BF%9E%E6%8E%A5vpn/</guid>
+      <description>&lt;h3 id=&#34;第一步&#34;&gt;第一步&lt;/h3&gt;
+&lt;p&gt;下载clash 推荐中文的&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://li2xun2.github.io/clash/clashZh.png&#34; alt=&#34;clashZh&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;这有windows版本至此clash下载完毕&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://li2xun2.github.io/clash/clash1.png&#34; alt=&#34;image-20240117204409052&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;第二步&#34;&gt;第二步&lt;/h3&gt;
+&lt;p&gt;买流量&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://us.freecat.cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://us.freecat.cloud/&lt;/a&gt; 这是买流量的网站&lt;/p&gt;
+&lt;p&gt;推荐这个100g的&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://li2xun2.github.io/clash/clash2.png&#34; alt=&#34;image-20240117204722158&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://li2xun2.github.io/clash/clash3.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+看详细clash教程&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
